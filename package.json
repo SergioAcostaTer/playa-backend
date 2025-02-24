@@ -1,0 +1,14 @@
+{
+  "name": "playa-backend",
+  "version": "0.0.0",
+  "description": "The backend for a Canary Island Beaches search engine.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
